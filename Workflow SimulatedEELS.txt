@@ -1,0 +1,8 @@
+Recommended:
+
+make matrix with full weighting ("E & X,Y")
+proceed centered PCA with at least 4 components
+reconstruct with 2 components.
+
+run script "ExtractMaps Al Mg O EELS" having datacube in front. 
+compare  maps obtained from raw and reconstructed datacubes.
